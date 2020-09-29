@@ -16,7 +16,7 @@ class Ground {
       fill("brown");
       
       image(this.image,pos.x+200,pos.y-583,500,600);
-      image(this.image1,pos.x-550,pos.y-240,200,300);
+      image(this.image1,pos.x-550,pos.y-310,300,400);
       rect(pos.x, pos.y, this.width, this.height);
     }
   };
