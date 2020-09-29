@@ -64,6 +64,10 @@ function draw() {
   mango3.display();
   mango4.display();
   mango5.display();
+	
+ textSize(20);
+ fill("Black");
+ text("Press Space To Retry",1000,50);
 
   
   
